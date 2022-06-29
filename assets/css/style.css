@@ -123,5 +123,6 @@ section {
   border: none;
   padding: 10px 10px;
   font-size: 16px;
+  cursor: pointer;
 }
 /* hero style end */
