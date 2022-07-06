@@ -227,6 +227,7 @@ section {
   margin: 20px;
   background-color: #024e76;
   color: #fce138;
+  flex: 1;
 }
 
 .trainer img {
